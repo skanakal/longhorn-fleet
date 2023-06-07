@@ -4,4 +4,3 @@ helm:
   chart: longhorn
   repo: https://charts.longhorn.io
   version: 1.4.1
-  kubeVersion: ">= 1.15.0-0 < 1.27.0-0"
